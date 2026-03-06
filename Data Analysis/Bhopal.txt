@@ -1,0 +1,7 @@
+
+data science and data analytics syllabus
+python-numpy,pandas
+sql
+power bi
+excel
+ML
